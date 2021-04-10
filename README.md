@@ -1,2 +1,3 @@
-# hackillinois
-# Lethal league 2D
+HACKILLINOIS PROJECT
+
+BAT GAME
