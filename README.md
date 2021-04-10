@@ -37,8 +37,8 @@ Here are the moves in lethal league blaze. For reference, the goal is to try to 
 
 
 Current Workflow:
-David - Documentation, management, In-Game UI
-Santiago - Player work and interactions with the ball
-Francisco - Art/ animation -> transition to working on other game components.
-Yong - Start screen, transition to player select scene.
+* David - Documentation, management, In-Game UI
+* Santiago - Player work and interactions with the ball
+* Francisco - Art/ animation -> transition to working on other game components.
+* Yong - Start screen, transition to player select scene.
 
