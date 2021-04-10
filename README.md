@@ -18,10 +18,27 @@ Goals for the Hackathon:
 * Starting UI that leads to a character select screen. (For now we can assume we have 1 character archtype)
 * A player that interacts with a ball on screen. The player and the ball are affected by eachother, that is, the player hits the ball and increases its speed, the ball hurts the player it hits.
 * A UI that displays player health.
-* Two players w/controller inputs
+* Two players w/controller inputs'
+
+Important design:
+- We want the ball to be outlined so that it's easy to see as it gains speed.
+- It should be clear to the player the range of their attack (the batting) and their hurtbox
 
 Stretch goals:
-* As ball gets faster there is a grace period where the ball stops before it launches
+* More attack options, like bunting which allow for mix-ups in the ball speed, grab.
+* Options while ball is in hitstun like lethal league blaze incorporates (parry)
+* As ball gets faster there is a grace period where the ball stops before it launches (hitstun)
 * More players in the select screen
 * More movement options, and more maps with variations in obstructions, more surfaces for the ball to bounce on
+
+Here are the moves in lethal league blaze. For reference, the goal is to try to incorporate some of the essential moves and adapt others to a 2D top down view. We can experiment with certain moves in LLB to try and see if they would fit the top-down gameplay, but it will be better, as stretch goals, to come up with our own moves with what we think might fit better.
+
+![image](https://user-images.githubusercontent.com/51679082/114279393-1221a280-99fa-11eb-9867-f496a68ddb5c.png)
+
+
+Current Workflow:
+David - Documentation, management, In-Game UI
+Santiago - Player work and interactions with the ball
+Francisco - Art/ animation -> transition to working on other game components.
+Yong - Start screen, transition to player select scene.
 
