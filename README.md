@@ -20,3 +20,8 @@ Goals for the Hackathon:
 * A UI that displays player health.
 * Two players w/controller inputs
 
+Stretch goals:
+* As ball gets faster there is a grace period where the ball stops before it launches
+* More players in the select screen
+* More movement options, and more maps with variations in obstructions, more surfaces for the ball to bounce on
+
